@@ -1,0 +1,31 @@
+*{
+    background-image: url(Wall-tiles.jpg);
+}
+
+body{
+    margin: 0% auto;
+}
+
+.tv_box{
+    width: 525px;
+    height: 341px;
+    background-image: url(Micromax.png);
+    background-size: cover;
+    padding: 20px;
+    margin: 0% auto;
+}
+
+.myButton{
+    margin-right: 27px;
+    border-radius: 25%;
+    border-color: black;
+    width: 100px;
+    height: 20px;
+    float: center;
+}
+
+.Micromax{
+    width: 500px;
+    height: 100px;
+    margin-top: 100px;
+}
