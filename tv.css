@@ -20,8 +20,12 @@ body{
     border-radius: 25%;
     border-color: black;
     width: 100px;
-    height: 20px;
+    height: 30px;
     float: center;
+}
+
+.myButton:hover{
+    color: red;
 }
 
 .Micromax{
